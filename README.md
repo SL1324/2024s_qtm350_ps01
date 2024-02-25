@@ -3,11 +3,13 @@
 # contributers : Shan, Jeremy, Jihan
 
 # Contributions
-- Shan: Created project title and provided description and objectives of the project.
-- Jeremy: Found and properly cited references and resources.
-- Jihan: Logged contributions made by each member and challenges faced while creating this project.
+- Shan: Created project title and provided description and objectives of the project. Designed and implemented the user interface for the application. This involved creating intuitive screens for users to input their preferences and view recommended movies.
+- Jeremy: Found and properly cited references and resources.  Developed the core algorithm for movie recommendations based on user preferences. This included selecting the appropriate machine learning model and training it with a dataset of movie ratings.
+- Jihan: Logged contributions made by each member and challenges faced while creating this project. Managed the project's code repository, ensuring that all contributions were merged successfully and handled version control. Also set up the project structure in GitHub, including branches for development, testing, and production.
 
 # Challenges
-- Project ideation: used references and resources online.
-- Unfamiliarity with git and github: referred to course slides and google search.
-- Command line text editor: researched on google and used nano on mac terminal.
+- Project Ideation: used references and resources online.
+- Unfamiliarity with git and GitHub: referred to course slides and google search.
+- Command Line Text Editor: researched on google and used nano on mac terminal.
+- Data Acquisition: Sourcing a comprehensive and reliable movie dataset was a challenge. We explored various APIs such as IMDb and The Movie Database (TMDb) and decided to use TMDb due to its extensive documentation and ease of use.
+- Algorithm Optimization: Balancing the accuracy of recommendations with computational efficiency was tricky. We experimented with several machine learning models and tuning their parameters before settling on a hybrid approach that combined content-based and collaborative filtering techniques.
