@@ -4,9 +4,9 @@
 ### Contributers : Shan, Jeremy, Jihan
 
 ### References
-Zhang, Q., Lu, J., & Jin, Y. (2021). Artificial intelligence in recommender systems. Complex & Intelligent Systems, 7, 439-457.
-Anand, R., Sabeenian, R. S., Gurang, D., Kirthika, R., & Rubeena, S. (2021, June). AI based music recommendation system using deep learning algorithms. In IOP conference series: earth and environmental science (Vol. 785, No. 1, p. 012013). IOP Publishing.
-Wang, S., Pasi, G., Hu, L., & Cao, L. (2020). The Era of Intelligent Recommendation: Editorial on Intelligent Recommendation with Advanced AI and Learning. IEEE Intell. Syst., 35(5), 3-6.Verma, P., & Sharma, S. (2020, December). Artificial intelligence based recommendation system. In 2020 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN) (pp. 669-673). IEEE.Sellamuthu, S., Vaddadi, S. A., Venkata, S., Petwal, H., Hosur, R., Mandala, V., ... & singh, J. (2023). AI-based recommendation model for effective decision to maximise ROI. Soft Computing, 1-10.
+- Zhang, Q., Lu, J., & Jin, Y. (2021). Artificial intelligence in recommender systems. Complex & Intelligent Systems, 7, 439-457.
+- Anand, R., Sabeenian, R. S., Gurang, D., Kirthika, R., & Rubeena, S. (2021, June). AI based music recommendation system using deep learning algorithms. In IOP conference series: earth and environmental science (Vol. 785, No. 1, p. 012013). IOP Publishing.
+- Wang, S., Pasi, G., Hu, L., & Cao, L. (2020). The Era of Intelligent Recommendation: Editorial on Intelligent Recommendation with Advanced AI and Learning. IEEE Intell. Syst., 35(5), 3-6.Verma, P., & Sharma, S. (2020, December). Artificial intelligence based recommendation system. In 2020 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN) (pp. 669-673). IEEE.Sellamuthu, S., Vaddadi, S. A., Venkata, S., Petwal, H., Hosur, R., Mandala, V., ... & singh, J. (2023). AI-based recommendation model for effective decision to maximise ROI. Soft Computing, 1-10.
 
 ### Resources
 
